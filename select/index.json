@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "悪魔の踊り方",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2025-12-14T12:21:04.531153Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悪魔の踊り方",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_悪魔の踊り方_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悪魔の踊り方",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_悪魔の踊り方_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悪魔の踊り方 - Devil's Manner",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_悪魔の踊り方_-_Devil's_Manner_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Devil's Manner (悪魔の踊り方)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/04_Devil's_Manner_(悪魔の踊り方)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "悪魔の踊り方 / キタニタツヤ - Devil's Manner / Tatsuya Kitani",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/05_悪魔の踊り方___キタニタツヤ_-_Devil's_Manner___Tatsuya_Kitani_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "悪魔の踊り方",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&Kagamine Rin",
+      "has_synced": true,
+      "path": "select/06_悪魔の踊り方_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&Kagamine_Rin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "悪魔の踊り方 (feat. 小豆沢こはね & 白石杏 & 東雲彰人 & 青柳冬弥 &...",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/07_悪魔の踊り方_(feat._小豆沢こはね_&_白石杏_&_東雲彰人_&_青柳冬弥_&..._Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "悪魔の踊り方 / キタニタツヤ - Devil's Manner /",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/08_悪魔の踊り方___キタニタツヤ_-_Devil's_Manner_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "悪魔の踊り方 [Live]",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/09_悪魔の踊り方_[Live]_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪魔の踊り方",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_悪魔の踊り方_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "悪魔の踊り方",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_02_悪魔の踊り方_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "悪魔の踊り方",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_03_悪魔の踊り方_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "悪魔の踊り方",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_04_悪魔の踊り方_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "悪魔の踊り方",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_05_悪魔の踊り方_キタニタツヤ.txt"
+    }
+  ]
+}
